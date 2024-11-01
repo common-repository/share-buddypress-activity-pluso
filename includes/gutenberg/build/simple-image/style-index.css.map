@@ -1,0 +1,1 @@
+{"version":3,"file":"simple-image/style-index.css","mappings":";;;AAAA;EACC;EACA;AACD,C","sources":["webpack://mxdnsms-gutenberg-blocks/./includes/gutenberg/src/simple-image/style.scss"],"sourcesContent":[".wp-block-mxdnsms-image-section img {\n\tdisplay: block;\n\tmargin: auto;\n}"],"names":[],"sourceRoot":""}

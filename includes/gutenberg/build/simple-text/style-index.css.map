@@ -1,0 +1,1 @@
+{"version":3,"file":"simple-text/style-index.css","mappings":";;;AAAA;EACC;EACA;EACA;AACD,C","sources":["webpack://mxdnsms-gutenberg-blocks/./includes/gutenberg/src/simple-text/style.scss"],"sourcesContent":[".wp-block-create-block-simple-text {\n\tbackground-color: #e1ecf1;\n\tcolor: #1a1717;\n\tpadding: 2px;\n}"],"names":[],"sourceRoot":""}

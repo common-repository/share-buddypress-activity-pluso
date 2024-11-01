@@ -1,0 +1,1 @@
+{"version":3,"file":"server-side-rendering/index.css","mappings":";;;AAAA;EACC;AACD,C","sources":["webpack://mxdnsms-gutenberg-blocks/./includes/gutenberg/src/server-side-rendering/editor.scss"],"sourcesContent":[".wp-block-create-block-random-posts-list {\n\tborder: 1px dotted #f00;\n}"],"names":[],"sourceRoot":""}
